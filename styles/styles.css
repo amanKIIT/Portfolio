@@ -129,6 +129,8 @@ section {
 }
 
 .theme-btn {
+  position:fixed;
+  top: 2%;
   bottom: 2%;
   right: 1%;
   width: 20px;
